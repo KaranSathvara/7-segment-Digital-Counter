@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1CYbdOz4hD3-WuHCuGnlQJN5DhFI_kVl2)
 📜 How to Use:
 1️⃣ Arduino ko power do.
 2️⃣ Increment button dabaane par count badhega.
-3️⃣ Reset button dabaane par counter 0 ho jayega.
+3️⃣ Decrement button dabaane par counter ghatega.
 
 🔥 Project by Karan sathvara – Open-source aur educational purpose ke liye!
 
